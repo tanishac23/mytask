@@ -32,6 +32,6 @@ class tanisha
          break;
         default: System.out.println("Oh no! you have entered incorrect choice!");
       }
-      System.out.println("Thank you for using our program");
+      System.out.println("Thank you for using our program !!");
    }
 }
